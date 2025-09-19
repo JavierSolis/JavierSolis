@@ -1,4 +1,4 @@
-# 👋 Hola, soy Javier Solís — Senior Android & Fullstack Developer (Kotlin • Laravel • AWS)
+# 👋 Hola, soy Javier Solís — Senior Android & Fullstack Developer (Kotlin • Laravel • AWS) | Lima, Perú | 10+ años
 
 <p><img align="right" src="animation.gif" alt="Javier Solís — Senior Android & Fullstack Developer" title="Android • Kotlin • Flutter • Laravel • AWS" width="260" /></p>
 
@@ -15,12 +15,12 @@
 
 ## 🚀 Sobre mí
 
-💡 Ingeniero de Sistemas con más de 10 años de experiencia en desarrollo de soluciones integrales: aplicaciones móviles (Android, Flutter), backend (Laravel, Python), proyectos freelance y optimización de procesos empresariales. Adaptado a entornos ágiles, liderando equipos multidisciplinarios y gestionando proyectos innovadores.
+💡 Ingeniero de Sistemas con más de 10 años de experiencia en Android (Kotlin), Flutter, Laravel/PHP y Cloud (AWS/GCP). He liderado proyectos en retail, logística y logística inversa, medios digitales, seguros y educación; con foco en scraping de e‑commerce, tracking en tiempo real, integración de APIs y automatización de QA.
 
 - 🏆 Certificaciones en Google Cloud, AWS, JetBrains, Postman, DeepLearning.AI, Scrum y más.
 - 🎯 Experiencia en arquitectura cloud, scraping, logística, SaaS, integración de APIs y automatización de pruebas.
 - 🛠️ Habilidades en diseño UI/UX, análisis de datos y metodologías ágiles.
-- Roles: Senior Android Developer, Fullstack Developer (Laravel/PHP), Tech Lead Android, Mobile Architect, Backend PHP Developer, Flutter Developer. Remoto LATAM/USA/EU (UTC-5).
+- Roles: Senior Android Developer, Fullstack Developer (Laravel/PHP), Tech Lead Android, Mobile Architect, Backend PHP Developer, Flutter Developer. Experiencia en retail, e‑commerce, logística, SaaS, seguros, educación. Remoto LATAM/USA/EU (UTC-5).
 
 ---
 
@@ -54,16 +54,23 @@
 ### 🧰 Frameworks, Libraries & Databases
 
 <div>
-  <img src="https://skillicons.dev/icons?i=laravel,android,flutter,react,vue,django,mysql,postgres,mongodb,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=laravel,android,flutter,react,vue,nextjs,django,mysql,postgres,mongodb,sqlite,firebase,dotnet" />
 </div>
 - Jetpack Compose, Retrofit, Room, Hilt, Koin, Picasso, Glide, Lottie, Gson, Moshi  
-- CocoaPods, Carthage, SPM, Material Design, Serverless Framework, Bref
+- WCF, WPF, GWT, Xamarin, Material Design, Serverless Framework, Bref  
+- Bases de datos: MySQL, PostgreSQL, SQL Server, Oracle, MariaDB, MongoDB, Firestore, Firebase Realtime, SQLite
 
 ### 💻 Operating Systems
 
 <div>
   <img src="https://skillicons.dev/icons?i=windows,linux,apple,fedora" />
 </div>
+
+## 🧰 Experiencia reciente
+
+- Ripley (FullStack): Scraping retail con Laravel + Serverless (Bref) en AWS (Lambda, S3, CloudWatch, EC2, SNS) y analítica en Power BI. IPs dedicadas (Zyte/Zety), pruebas con Pest y pipelines CI/CD.
+- El Universal (Senior Android): App SaaS multimodular (MVVM, Koin/Hilt, Room, Retrofit), cumplimiento Play Store, 100% issues de seguridad resueltos en SonarQube, colaboración con iOS y backend Python.
+- DoltEasy/YouTrack (Senior Android): Tracking en tiempo real (Google Maps), Firebase (Realtime, FCM, Crashlytics, Distribution), automatización QA (Espresso, Appium, Cypress), GitLab CI/CD.
 
 ## 📊 Lenguajes más usados
 
@@ -108,9 +115,9 @@
 ---
 
 <details>
-  <summary>🔎 Palabras clave para reclutadores</summary>
+  <summary>🔎 Palabras clave</summary>
 
-Senior Android Developer, Android Kotlin, Jetpack, MVVM, Multimodular, Play Store, Seguridad móvil, SonarQube, Flutter Developer, Dart, CI/CD móvil, Firebase, AdMob, Analytics, Fullstack Developer, Laravel, PHP, APIs REST, Serverless, Bref, MySQL, PostgreSQL, MongoDB, AWS Lambda, S3, CloudWatch, EC2, SNS, GCP, Scraping, DOM, Zety, Power BI, Integraciones, Microservicios, QA Automation, Espresso, Appium, Cypress, JUnit, GitLab CI/CD, Arquitectura Cloud, Remote LATAM, Remoto, Lima Perú.
+Android, Kotlin, Jetpack, MVVM, Multimodular, Play Store, Seguridad móvil, SonarQube, Flutter, Dart, CI/CD móvil, Firebase (Analytics, Crashlytics, FCM, App Distribution, Realtime, Firestore), AdMob, Laravel, PHP, APIs REST, Serverless, Bref, AWS (Lambda, S3, CloudWatch, EC2, SNS), GCP, Scraping, DOM, Zyte/Zety, Power BI, Highcharts, Sentry, SendGrid, Emarsys, OneSignal, PayPal, MercadoPago, MySQL, PostgreSQL, SQL Server, Oracle, MariaDB, MongoDB, SQLite, React, Vue, Next.js, Django, GWT, .NET, WCF, WPF, Xamarin, Google Maps, QA Automation, Espresso, Appium, Cypress, JUnit, GitLab CI/CD, Retail, E‑commerce, Logística, Logística inversa, Transporte, Encuestas ISTAS21, Inventarios, QA, Educación, Lima Perú, Remoto LATAM.
 
 </details>
 
